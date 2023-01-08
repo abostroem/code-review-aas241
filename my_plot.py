@@ -1,3 +1,4 @@
+# this will plot
 import numpy as np
 import matplotlib
 import os
@@ -31,4 +32,3 @@ pyplot.legend(['Column 800', 'Mean'])
 pyplot.title('Plot of Column 800 Values and Mean')
 pyplot.xlabel('Pixels')
 pyplot.ylabel('Intensity')
-
