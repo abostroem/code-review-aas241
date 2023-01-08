@@ -1,7 +1,7 @@
 # this will plot
 import numpy as np
- import matplotlib
- import os
+import matplotlib
+import os
  from astropy.io import fits
  import glob
  data = fits.getdata('/Users/bostroem/Desktop/images/hubble_img.fits')
